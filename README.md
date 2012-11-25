@@ -1,8 +1,10 @@
-# Source file file from Homer's works.
+# Homer's works in digital format from Wiksource.
 
-This is a version
+This is a digital edition of Homer from Wikisource.
 
-## ePub version
+I'm not interested in forking the text, but this is the only way to get an ePub file containing  Homer's works from Wikisource.
+
+There is a bug in [WSexport](http://wsexport.wmflabs.org/tool/book.php) that generates invalid ePub files from [Ὀμηρος](https://el.wikisource.org/wiki/Ὀμηρος) and
 
 ## Errors in the Greek text?
 
